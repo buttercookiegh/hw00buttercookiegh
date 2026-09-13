@@ -1,3 +1,2 @@
 from .differential import diff
-
-__all__ = ["diff"]
+from .matrix import rowswap, rowscale, rowreplacement, rref

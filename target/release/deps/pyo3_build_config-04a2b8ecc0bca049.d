@@ -1,0 +1,14 @@
+/Users/bushra/hw00buttercookiegh/target/release/deps/pyo3_build_config-04a2b8ecc0bca049.d: /Users/bushra/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/lib.rs /Users/bushra/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/errors.rs /Users/bushra/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/impl_.rs /Users/bushra/hw00buttercookiegh/target/release/build/pyo3-build-config-583bb213daa658d7/out/pyo3-build-config-file.txt /Users/bushra/hw00buttercookiegh/target/release/build/pyo3-build-config-583bb213daa658d7/out/pyo3-build-config.txt
+
+/Users/bushra/hw00buttercookiegh/target/release/deps/libpyo3_build_config-04a2b8ecc0bca049.rlib: /Users/bushra/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/lib.rs /Users/bushra/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/errors.rs /Users/bushra/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/impl_.rs /Users/bushra/hw00buttercookiegh/target/release/build/pyo3-build-config-583bb213daa658d7/out/pyo3-build-config-file.txt /Users/bushra/hw00buttercookiegh/target/release/build/pyo3-build-config-583bb213daa658d7/out/pyo3-build-config.txt
+
+/Users/bushra/hw00buttercookiegh/target/release/deps/libpyo3_build_config-04a2b8ecc0bca049.rmeta: /Users/bushra/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/lib.rs /Users/bushra/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/errors.rs /Users/bushra/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/impl_.rs /Users/bushra/hw00buttercookiegh/target/release/build/pyo3-build-config-583bb213daa658d7/out/pyo3-build-config-file.txt /Users/bushra/hw00buttercookiegh/target/release/build/pyo3-build-config-583bb213daa658d7/out/pyo3-build-config.txt
+
+/Users/bushra/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/lib.rs:
+/Users/bushra/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/errors.rs:
+/Users/bushra/Library/Caches/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/impl_.rs:
+/Users/bushra/hw00buttercookiegh/target/release/build/pyo3-build-config-583bb213daa658d7/out/pyo3-build-config-file.txt:
+/Users/bushra/hw00buttercookiegh/target/release/build/pyo3-build-config-583bb213daa658d7/out/pyo3-build-config.txt:
+
+# env-dep:CARGO_PKG_VERSION=0.28.3
+# env-dep:OUT_DIR=/Users/bushra/hw00buttercookiegh/target/release/build/pyo3-build-config-583bb213daa658d7/out
