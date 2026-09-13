@@ -1,3 +1,9 @@
+nano pyproject.toml
+cd ~/hw00buttercookiegh
+rm -rf dist/
+uv build
+uv build
+ls dist/
 [project]
 name = "buttercookie"
 version = "0.2.0"
@@ -24,9 +30,6 @@ members = [
     "difftest",
 ]
 
-
-
 [build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
-
+requires = ["maturin>=1.0,<2.0"]
+build-backend = "maturin"
