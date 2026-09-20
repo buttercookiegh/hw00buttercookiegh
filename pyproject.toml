@@ -1,6 +1,6 @@
 [project]
 name = "buttercookie"
-version = "0.2.0"
+version = "0.3.0"
 description = "Add your description here"
 readme = "README.md"
 authors = [
@@ -8,6 +8,7 @@ authors = [
 ]
 requires-python = ">=3.12"
 dependencies = [
+    "polars>=1.44.2",
     "torch>=2.14.0",
 ]
 
